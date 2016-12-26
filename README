@@ -1,0 +1,8 @@
+# License: GPL 2.0
+# Autor: http://evertonstz.deviantart.com/
+
+Installation:
+	copy the MinimalistForTiling folder to /usr/share/slim/themes
+	change your theme in current_theme section in /etc/slim.conf
+	enjoy!
+For chose the background with nitrogen i use this script: https://github.com/evertonstz/nitroslim

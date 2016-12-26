@@ -1,0 +1,31 @@
+# MinimalistForTiling SLiM theme
+# 
+msg_color               #a7a7a7
+msg_font                Sans:size=10:bold:dpi=96
+msg_x                   50%
+msg_y                   70%
+# valid values: stretch, tile
+background_style        stretch
+background_color        #000000
+
+# Input controls
+input_panel_x           50%
+input_panel_y           50%
+
+input_name_x            650
+input_name_y            468
+input_pass_x            650
+input_pass_y            487
+
+input_font              Sazanami Gothic:size=7
+input_color		#a7a7a7
+input_shadow_xoffset 	0
+input_shadow_yoffset 	0
+#input_shadow_color   	#ffffff
+username_color          #a7a7a7
+username_x              180
+username_y              10
+username_font          	Sazanami Gothic:size=8
+#i've used it to print a simple quote
+username_msg            "Christmas is Shit and I'm The Motherfucking Grinch."
+password_msg	
