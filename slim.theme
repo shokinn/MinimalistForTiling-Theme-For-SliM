@@ -12,10 +12,10 @@ background_color        #000000
 input_panel_x           50%
 input_panel_y           50%
 
-input_name_x            650
-input_name_y            468
-input_pass_x            650
-input_pass_y            487
+input_name_x            570
+input_name_y            419
+input_pass_x            570
+input_pass_y            436
 
 input_font              Sazanami Gothic:size=7
 input_color		#a7a7a7
