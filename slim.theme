@@ -27,5 +27,5 @@ username_x              180
 username_y              10
 username_font          	Sazanami Gothic:size=8
 #i've used it to print a simple quote
-username_msg            "Christmas is Shit and I'm The Motherfucking Grinch."
+username_msg            
 password_msg	
